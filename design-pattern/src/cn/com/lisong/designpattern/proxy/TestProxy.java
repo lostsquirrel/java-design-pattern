@@ -1,7 +1,5 @@
 package cn.com.lisong.designpattern.proxy;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class TestProxy {

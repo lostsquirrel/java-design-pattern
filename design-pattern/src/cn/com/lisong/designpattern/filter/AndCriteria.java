@@ -1,6 +1,5 @@
 package cn.com.lisong.designpattern.filter;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class AndCriteria implements Criteria{

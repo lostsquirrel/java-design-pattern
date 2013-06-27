@@ -1,7 +1,5 @@
 package cn.com.lisong.designpattern.command;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class TestCommand {

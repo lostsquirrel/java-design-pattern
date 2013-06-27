@@ -1,7 +1,5 @@
 package cn.com.lisong.designpattern.observer;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class TestObserver {

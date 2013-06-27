@@ -1,7 +1,5 @@
 package cn.com.lisong.designpattern.state;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class TestState {
