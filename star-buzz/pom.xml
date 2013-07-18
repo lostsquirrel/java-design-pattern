@@ -52,5 +52,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <description>StarBuzz Coffe for Decorator Design Pattern</description>
+  <description>StarBuzz Coffee for Decorator Design Pattern</description>
 </project>
