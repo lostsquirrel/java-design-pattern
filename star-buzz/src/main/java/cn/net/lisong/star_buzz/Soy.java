@@ -2,6 +2,7 @@ package cn.net.lisong.star_buzz;
 
 
 public class Soy extends CondimentDecorator {
+	public Beverage beverage;
 	public Soy(Beverage beverage) {
 		this.beverage = beverage;
 	}

@@ -2,7 +2,7 @@ package cn.net.lisong.star_buzz;
 
 
 public class Mocha extends CondimentDecorator {
-	
+	public Beverage beverage;
 	public Mocha(Beverage beverage) {
 		this.beverage = beverage;
 	}

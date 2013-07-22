@@ -2,6 +2,7 @@ package cn.net.lisong.star_buzz;
 
 
 public class Whip extends CondimentDecorator {
+	public Beverage beverage;
 	public Whip(Beverage beverage) {
 		this.beverage = beverage;
 	}
